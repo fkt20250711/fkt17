@@ -16,4 +16,4 @@
 
 与其他用户互动也是平台的一大特色，您可以分享观影心得、发表评论并参与投票活动，找到更多感兴趣的影片资源。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt17 )</span>
